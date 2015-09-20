@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "StevesWorkshop",
+    "name": "Steve's Workfix",
+    "description": "Fixes Production Table name being sometimes Unnamed by adding real localization support.",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "authorList": [
+      "Juuxel"
+    ],
+    "credits": "Thanks to Vswe for the original mod!"
+  }
+]
