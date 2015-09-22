@@ -1,9 +1,9 @@
 [
   {
-    "modid": "StevesWorkshop",
+    "modid": "StevesWorkfix",
     "name": "Steve's Workfix",
-    "description": "Fixes Production Table name being sometimes Unnamed by adding real localization support.",
-    "version": "1.0",
+    "description": "Fixes Production Table name being sometimes Unnamed by adding real localization support for Production Tables.",
+    "version": "1.0.1",
     "mcversion": "1.7.10",
     "authorList": [
       "Juuxel"
